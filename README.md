@@ -1,9 +1,9 @@
 # BitcoinHealth Coin
-A new cryptocurrency based on Bitcoin source code for buying essential goods, hospital/medical payments, and medicines utilizing Amazon Web Services nodes.
+A new USA cryptocurrency based on Bitcoin source code for buying essential goods, hospital/medical payments, and medicines utilizing Cloud Web Services nodes. USA developed coin. Developed by former consultants at the CDC and US Govt. agencies.
 
 Launching in 2020.
 
-
+Currently in Beta Mode with working Core and Wallets.
 
 # What is Bitcoin Health?
 
