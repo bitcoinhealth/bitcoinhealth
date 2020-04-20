@@ -14,9 +14,13 @@ Here BDB_PREFIX must be an absolute path - it is defined using $(pwd) which ensu
 To Build
 
 # Install
+
 ./autogen.sh
+
 ./configure
+
 make
+
 make install # optional
 
 This will build bitcoinhealth-qt as well, if the dependencies are met.
