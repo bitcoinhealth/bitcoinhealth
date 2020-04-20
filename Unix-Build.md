@@ -1,10 +1,10 @@
 # Linux - UNIX BUILD NOTES
 
-Some notes on how to build BitcoinHealth Core source in Unix.
+Some notes on how to build BitcoinHealth Core source and Wallet in Unix and Linux based OS.
 
 # Preinstall
 Clone or download the current source code locally. 
-Execute tar -xvf bitcoinhealth-source.tar or bitcoinhealth-qt-linux.tar
+Execute >   tar -xvf bitcoinhealth-source.tar or bitcoinhealth-qt-linux.tar
 
 Always use absolute paths to configure and compile BitcoinHealth Core and the dependencies. For example, when specifying the path of the dependency:
 
