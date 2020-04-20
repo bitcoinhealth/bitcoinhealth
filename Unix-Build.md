@@ -1,11 +1,12 @@
-UNIX BUILD NOTES
+# Linux - UNIX BUILD NOTES
 
 Some notes on how to build BitcoinHealth Core source in Unix.
 
-(For BSD specific instructions, see build-*bsd.md in this directory.)
-Note
+# Preinstall
+Clone or download the current source code locally. 
+Execute tar -xvf bitcoinhealth-source.tar or bitcoinhealth-qt-linux.tar
 
-Always use absolute paths to configure and compile Bitcoin Core and the dependencies. For example, when specifying the path of the dependency:
+Always use absolute paths to configure and compile BitcoinHealth Core and the dependencies. For example, when specifying the path of the dependency:
 
 ../dist/configure --enable-cxx --disable-shared --with-pic --prefix=$BDB_PREFIX
 
