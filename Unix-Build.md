@@ -13,6 +13,7 @@ Always use absolute paths to configure and compile BitcoinHealth Core and the de
 Here BDB_PREFIX must be an absolute path - it is defined using $(pwd) which ensures the usage of the absolute path.
 To Build
 
+# Install
 ./autogen.sh
 ./configure
 make
@@ -20,6 +21,8 @@ make install # optional
 
 This will build bitcoinhealth-qt as well, if the dependencies are met.
 Dependencies
+
+# Dependencies
 
 These dependencies are required:
 Library 	Purpose 	Description
