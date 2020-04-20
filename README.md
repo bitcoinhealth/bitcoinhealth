@@ -1,5 +1,5 @@
-# Bitcoinhealth coin
-A new cryptocurrency based on Bitcoin source for buying essential goods, hospital/medical payments, and medicines utilizing Amazon Web Services nodes.
+# BitcoinHealth coin
+A new cryptocurrency based on Bitcoin source code for buying essential goods, hospital/medical payments, and medicines utilizing Amazon Web Services nodes.
 
 Launching in 2020.
 
@@ -14,8 +14,8 @@ Built on v.17 of the Bitcoin source code.
 
 # New features in Dev.
 
-1.  At leaset two nodes running on Amazon Web Services or Azure for high availability
-2.  Quantum computing enhancements
+1.  At leaset two nodes running on Amazon Web Services or Azure for high availability.
+2.  Quantum computing enhancements.
 3.  Integration on ERP platforms for Hospitals.
 
 BitcoinHealth Core and Wallets can run on Windows and Linux platforms. See Build docs for instructions.
