@@ -3,7 +3,7 @@ A new USA cryptocurrency based on Bitcoin source code for buying essential goods
 
 Launching in 2020.
 
-Currently in Beta Mode with working Core and Wallets.
+Currently can be mined GPU PC's!
 
 # What is Bitcoin Health?
 
