@@ -15,8 +15,8 @@ See Bitcoinhealth_Overview.md for coin white paper - press release.
 # New features in Dev.
 
 1.  At leaset two nodes running on Amazon Web Services or Azure for high availability.
-2.  Integration on third pary websites for ordering essential goods and services. 
+2.  Integration on third party E-Commerce websites for ordering essential goods and services. 
 3.  Integration on ERP platforms for Hospitals.
 
-BitcoinHealth Core and Wallets can run on Windows and Linux platforms. See Build docs for instructions.
+BitcoinHealth Core and Wallets can run on Windows, MAC, and Linux platforms. See Build docs for OS instructions.
 
