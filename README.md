@@ -14,7 +14,7 @@ See Bitcoinhealth_Overview.md for coin white paper - press release.
 
 # New features in Dev.
 
-1.  At leaset two nodes running on Amazon Web Services or Azure for high availability.
+1.  At least two nodes running on Amazon Web Services or Azure for high availability.
 2.  Integration on third party E-Commerce websites for ordering essential goods and services. 
 3.  Integration on ERP platforms for Hospitals.
 4.  First cryptocurrency - blockchain to incorporate Quantum computing so that mining can be done on PC's as Quantum computing hardware/cloud offerings make their way to public domain.
