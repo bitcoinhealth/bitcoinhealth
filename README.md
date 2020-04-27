@@ -7,7 +7,7 @@ Currently can be mined on GPU Windows and Linux PC's!
 
 # What is Bitcoin Health?
 
-BitcoinHealth is an digital currency that enables instant payments to anyone, anywhere in the world. BitcoinHealth coin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. BitcoinHealth Core is the name of open source software which enables the use of this currency.
+BitcoinHealth is a digital currency that enables instant payments to anyone, anywhere in the world. BitcoinHealth coin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. BitcoinHealth Core is the name of open source software which enables the use of this currency.
 See Bitcoinhealth_Overview.md for coin white paper - press release.
 
 
