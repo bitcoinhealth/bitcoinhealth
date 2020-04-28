@@ -1,6 +1,5 @@
 # BitcoinHealth Coin
-A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying essential goods, hospital/medical payments, and medicines utilizing Cloud Web Services nodes.  Developed by former consultants at the CDC. Will incorporate Quantum computing methods.
-
+A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying essential goods, hospital/medical payments, and medicines utilizing Cloud Web Services nodes.  Developed by former consultants at the CDC. SuperNodes running on Amazon Web Services.
 Launching in 2020.
 
 Currently can be mined on GPU Windows and Linux PC's!
