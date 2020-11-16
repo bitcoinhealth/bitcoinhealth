@@ -1,10 +1,10 @@
-# BitcoinHealth: HealathBit Coin
+# BitcoinHealth: HealthBit coin
 HealthBit: A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying essential goods, hospital/medical payments, and medicines utilizing Cloud Web Services nodes.  Developed by former consultants at the CDC. SuperNodes running on Amazon Web Services.
 Launching in 2020.
 
 Currently can be mined on GPU Windows and Linux PC's!
 
-# What is Bitcoin Health?
+# What is HealthBit?
 
 HealthBit is a digital currency that enables instant payments to anyone, anywhere in the world. BitcoinHealth coin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. BitcoinHealth Core is the name of open source software which enables the use of this currency.
 See Bitcoinhealth_Overview.md for coin white paper - press release.
