@@ -1,5 +1,5 @@
 # BitcoinHealth: HealthBit coin
-HealthBit: A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying essential goods, hospital/medical payments, and medicines utilizing Cloud Web Services nodes.  Developed by former consultants at the CDC. SuperNodes running on Amazon Web Services.
+HealthBit: A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying essential goods, hospital/medical payments, and medicines utilizing HealthBit FinTech Apps.  Developed by former consultants at the CDC.
 Launching in 2020.
 
 Currently can be mined on GPU Windows and Linux PC's!
@@ -14,9 +14,8 @@ See Bitcoinhealth_Overview.md for coin white paper - press release.
 # New features in Dev.
 
 1.  At least two nodes running on Amazon Web Services or Azure for high availability.
-2.  Integration on third party E-Commerce websites for ordering essential goods and services. 
-3.  Integration on ERP platforms for Hospitals.
-4.  First cryptocurrency - blockchain to incorporate Quantum computing so that mining can be done on PC's as Quantum computing hardware/cloud offerings make their way to public domain.
+2.  Integration with HealthBit FinTech app for Hospital appointment and Payments. 
+3.  List on Cryptoexchanges Q2 2021.
 
-BitcoinHealth Core and Wallets can run on Windows, MAC, and Linux platforms. See Build docs for OS instructions.
+BitcoinHealth Core and Wallets can run on Windows, MAC, and Linux platforms. See Build docs for OS instructions.  
 
