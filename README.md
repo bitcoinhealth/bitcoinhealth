@@ -1,4 +1,7 @@
 # BitcoinHealth: HealthBit coin
+
+Beta Testing Closed. Production live v 1.0 12/03/2020  Download source.
+
 HealthBit: A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying essential goods, hospital/medical payments, and medicines utilizing HealthBit FinTech Apps.  Developed by former consultants at the CDC.
 Launching in 2020.
 
